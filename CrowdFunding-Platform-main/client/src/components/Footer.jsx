@@ -7,7 +7,7 @@ const Footer = () => {
         <p className="text-sm text-gray-600 dark:text-gray-300">
           © {new Date().getFullYear()} — All rights reserved by{" "}
           <span className="font-semibold text-blue-600 dark:text-blue-400">
-            Harshit Shrivastava
+            Vaibhav Panda
           </span>
         </p>
 
